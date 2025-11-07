@@ -161,7 +161,49 @@ nav ul li a{
 .pricing-card button:hover{
     background-color:#0056b3;
 }
-
+/*===== Contact Section =====*/
+.contact{
+    padding:4rem 2rem;
+    background: #f9f9f9;
+    text-align: center;
+}
+.contact h2{
+    font-size:2rem;
+    margin-bottom:1rem;
+    color:#333;
+}
+.contact p{
+    margin-bottom:2rem;
+    color:#555;
+}
+.contact-form{
+    max-width:600px;
+    margin:0 auto;
+}
+.form-group{
+    margin-bottom:1.2rem;
+}
+.contact-form input,
+.contact-form textarea{
+    width:100%;
+    padding:0.8rem;
+    border:1px solid #ddd;
+    border-radius:8px;
+    font-size:1rem;
+}
+.contact-form .btn{
+    background:#007bff;
+    color:#fff;
+    padding:0.8rem 1.5rem;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:1rem;
+    transition:background 0.3s ease;
+}
+.contact-form .btn:hover{
+    background:#0056b3;
+}
 
 
 
