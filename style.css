@@ -256,6 +256,21 @@ footer{
         width:90%;
         max-width:400px;
     }
+
+    /*Contact section*/
+    .contact{
+        padding:3rem 1.5rem;
+
+    }
+    .contact h2{
+        font-size:1.8rem;
+    }
+    .contact p{
+        font-size:1rem;
+    }
+    .contact-form{
+        width:100%;
+    }
     
 }
 
@@ -292,6 +307,22 @@ footer{
 
     .pricing-card:button{
         padding:8px 16px;
+    }
+    /*Contact section*/
+    .contact{
+        padding:2.5rem 1rem;
+    }
+    .contact h2{
+        font-size:1.5rem;
+    }
+    .contact-form input,
+    .contact-form textarea{
+        font-size:0.9rem;
+        padding:0.7rem;
+    }
+    .contact-form .btn{
+        font-size:0.9rem;
+        padding:0.7rem 1.2rem;
     }
 
     footer{
